@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284392979682",
+    "project_id": "laundryappfirebase",
+    "storage_bucket": "laundryappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284392979682:android:75c010d534f0011d2bf2bb",
+        "android_client_info": {
+          "package_name": "com.zidan.laundryappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6OZHGAm6yBejKnyFkSZVt3HiWWrwpyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
