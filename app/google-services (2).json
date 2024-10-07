@@ -12,7 +12,12 @@
           "package_name": "com.zidan.laundryappfirebase"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "284392979682-90p3ed0dn77bbn3kc5vpdqlvr48rfdhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCi6OZHGAm6yBejKnyFkSZVt3HiWWrwpyg"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284392979682-90p3ed0dn77bbn3kc5vpdqlvr48rfdhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
