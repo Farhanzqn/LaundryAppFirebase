@@ -65,10 +65,11 @@
 
             <Button
                 android:layout_width="300dp"
-                android:layout_height="70dp"
+                android:layout_height="50dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="30dp"
                 android:id="@+id/signup_button"
+                android:background="@drawable/sharpbkg"
                 android:textSize="18sp"
                 android:text="@string/signup"
                 app:cornerRadius = "30dp"/>
